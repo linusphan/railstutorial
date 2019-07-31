@@ -25,3 +25,5 @@
 # Ignore DS_Store file
 .DS_Store
 
+# Ignore Spring files
+/spring/*.pid
