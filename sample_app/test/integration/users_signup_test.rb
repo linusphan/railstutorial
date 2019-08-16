@@ -35,6 +35,7 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
     assert_equal 1, ActionMailer::Base.deliveries.size
     user = assigns(:user)
     assert_not user.activated?
+
     # try to log in before activation
     log_in_as(user)
     assert_not is_logged_in?
