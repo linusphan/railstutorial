@@ -8,7 +8,7 @@
 
 <img width="1300" alt="following" src="https://user-images.githubusercontent.com/13613724/63157478-e4d5e480-bfcb-11e9-92b4-a5f20922dc9a.png">
 
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails sample application
 
 This is the sample application from completing the book:
 [*Ruby on Rails Tutorial:
