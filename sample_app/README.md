@@ -1,3 +1,7 @@
+<img width="1264" alt="home_top" src="https://user-images.githubusercontent.com/13613724/63157458-dd164000-bfcb-11e9-9947-17034e742cb0.png">
+<img width="1220" alt="home_bottom" src="https://user-images.githubusercontent.com/13613724/63157472-e2738a80-bfcb-11e9-9d36-f92749bfcd8d.png">
+<img width="1300" alt="following" src="https://user-images.githubusercontent.com/13613724/63157478-e4d5e480-bfcb-11e9-92b4-a5f20922dc9a.png">
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
