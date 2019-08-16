@@ -1,0 +1,12 @@
+one:
+  follower: linus
+  followed: lana
+two:
+  follower: linus
+  followed: malory
+three:
+  follower: lana
+  followed: linus
+four:
+  follower: archer
+  followed: linus
